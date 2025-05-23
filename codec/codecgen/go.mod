@@ -1,5 +1,5 @@
-module github.com/ugorji/go/codec/codecgen
+module github.com/pangeoradar/go/codec/codecgen
 
 require (
-github.com/ugorji/go/codec v1.1.7
+github.com/pangeoradar/go/codec v1.1.7
 )
