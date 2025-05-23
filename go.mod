@@ -1,5 +1,5 @@
-module github.com/ugorji/go
+module github.com/pangeoradar/go
 
 require (
-github.com/ugorji/go/codec v1.1.7
+github.com/pangeoradar/go/codec v1.1.7
 )
